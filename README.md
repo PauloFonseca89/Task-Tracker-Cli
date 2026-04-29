@@ -1,3 +1,3 @@
-# Task-Tracker-Cli
+# Task-Tracker.Cli
 
 https://roadmap.sh/projects/task-tracker
